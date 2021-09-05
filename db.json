@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro Max",
+      "price": 68990,
+      "currency": "Php",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2020/05/iphone-12-pro-max-family-hero-all-600x600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Leather Sleeve for iPhone 12 Pro Max",
+      "price": 2990,
+      "currency": "Php",
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MKTQ3?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1623349350000"
+    },
+    {
+      "id": 3,
+      "name": "AirPods Pro",
+      "price": 14990,
+      "currency": "Php",
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MWP22?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1591634795000"
+    }
+  ]
+}
